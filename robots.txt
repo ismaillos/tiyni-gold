@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reservation.tiynigold.com/sitemap.xml
